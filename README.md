@@ -17,4 +17,4 @@ Android platformu için Java ile geliştirilmiş; kullanıcıların vücut kitle
 ## Kurulum ve Çalıştırma
 Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/erdinczbn/fitLifeMobile.git](https://github.com/erdinczbn/fitLifeMobile.git)
+   git clone https://github.com/erdinczbn/fitLifeMobile.git
