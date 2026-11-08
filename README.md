@@ -15,6 +15,6 @@ Android platformu için Java ile geliştirilmiş; kullanıcıların vücut kitle
 - **Minimum SDK Desteği:** Android API 23+
 
 ## Kurulum ve Çalıştırma
-1. Projeyi bilgisayarınıza klonlayın:
+Projeyi bilgisayarınıza klonlayın:
    ```bash
    git clone [https://github.com/erdinczbn/fitLifeMobile.git](https://github.com/erdinczbn/fitLifeMobile.git)
